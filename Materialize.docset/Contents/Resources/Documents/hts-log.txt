@@ -1,0 +1,50 @@
+HTTrack3.48-22 launched on Mon, 01 Aug 2016 16:46:44 at http://materializecss.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w http://materializecss.com/ -O "/home/pedro/websites/Materialize" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:58:47	Error: 	"Not Found" (404) at link https://unsplash.imgix.net/photo-1414924347000-9823c338079b?q=75&fm=jpg&s=0fa6db3cdc65e50c111575043fad4b5c (from materializecss.com/fullscreen-slider-demo.html)
+16:58:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): cdn.transifex.com/live.js
+16:58:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): cdn.carbonads.com/carbon.js?zoneid=1673&serve=C6AILKT&placement=materializecss
+16:59:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): materializecss.com/js/jquery.timeago.min.js
+16:59:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): materializecss.com/js/prism.js
+16:59:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): materializecss.com/jade/lunr.min.js
+16:59:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): materializecss.com/jade/search.js
+16:59:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): materializecss.com/bin/materialize.js
+16:59:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): materializecss.com/js/init.js
+16:59:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://apis.google.com/js/platform.js
+16:59:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.google-analytics.com/analytics.js
+16:59:52	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 62316): materializecss.com/fonts/roboto/Roboto-Light.woff
+17:00:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): materializecss.com/images/yuna.jpg
+17:00:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): materializecss.com/extras/noUiSlider/nouislider.js
+17:00:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://unsplash.imgix.net/reserve/nE6neNVdRPSIasnmePZe_IMG_1950.jpg?dpr=1.25&fit=crop&fm=jpg&h=700&q=75&w=1050
+17:01:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): s27.postimg.org/cle8r44yb/100xp.jpg
+17:01:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): s27.postimg.org/xtrx8jjf7/dlsuhackercup.jpg
+17:01:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): s27.postimg.org/9328uq42b/gaggle.jpg
+17:01:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): materializecss.com/images/showcase/stamplay.png
+17:01:21	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 50224): materializecss.com/fonts/roboto/Roboto-Medium.woff2
+17:01:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): s27.postimg.org/ndbt67ker/jumpr.jpg
+17:01:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): puu.sh/i7MD1/5eb94d6470.png
+17:02:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): materializecss.com/templates/starter-template/js/init.js
+17:02:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): materializecss.com/templates/parallax-template/background1.jpg
+17:02:30	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 62876): materializecss.com/fonts/roboto/Roboto-Bold.woff
+17:02:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): materializecss.com/dist/js/materialize.js
+17:02:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): materializecss.com/templates/parallax-template/js/init.js
+17:02:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ununsplash.imgix.net/photo-1414849424631-8b18529a81ca?q=75&fm=jpg&s=0e993004a2f3704e8f2ad5469315ccb7
+17:02:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ununsplash.imgix.net/uploads/1413259835094dcdeb9d3/6e609595?q=75&fm=jpg&s=6a4fc66161293fc4a43a6ca6f073d1c5
+17:03:03	Error: 	"Not Found" (404) at link materializecss.com/bin/jquery-2.1.1.min.js (from materializecss.com/)
+17:03:03	Warning: 	HTML file (5386 bytes) retransferred due to lack of cache: materializecss.com/templates/starter-template/preview.html
+17:03:23	Warning: 	HTML file (7266 bytes) retransferred due to lack of cache: materializecss.com/templates/parallax-template/preview.html
+17:03:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): materializecss.com/fonts/roboto/Roboto-Thin.ttf
+17:03:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): materializecss.com/fonts/roboto/Roboto-Light.ttf
+17:03:41	Warning: 	HTML file (4540 bytes) retransferred due to lack of cache: materializecss.com/fullscreen-slider-demo.html
+17:03:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): materializecss.com/fonts/roboto/Roboto-Regular.ttf
+17:04:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): materializecss.com/fonts/roboto/Roboto-Medium.ttf
+17:04:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): materializecss.com/fonts/roboto/Roboto-Bold.ttf
+17:05:23	Warning: 	HTML file (16449 bytes) retransferred due to lack of cache: materializecss.com/index.html
+
+HTTrack Website Copier/3.48-22 mirror complete in 18 minutes 40 seconds : 182 links scanned, 273 files written (45924235 bytes overall) [23419935 bytes received at 20910 bytes/sec], 4389886 bytes transferred using HTTP compression in 94 files, ratio 41%, 1.0 requests per connection
+(2 errors, 37 warnings, 0 messages)
